@@ -1,0 +1,8 @@
+{
+  "name": "MediaPipe Holistic Landmarker Demo",
+  "description": "An example website demonstrating MediaPipe Holistic Landmarker with a dual-box layout.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
